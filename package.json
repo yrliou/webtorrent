@@ -73,7 +73,7 @@
   "devDependencies": {
     "airtap": "0.1.0",
     "babel-minify": "^0.4.3",
-    "bittorrent-tracker": "^9.4.0",
+    "bittorrent-tracker": "9.9.1",
     "brfs": "^2.0.0",
     "browserify": "^16.0.0",
     "cross-spawn": "^6.0.3",
